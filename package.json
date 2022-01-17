@@ -1,0 +1,10 @@
+{
+  "name": "pdf-lib-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  },
+  "main": "index.js"
+}
